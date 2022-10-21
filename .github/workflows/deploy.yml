@@ -1,4 +1,4 @@
-name: Deploy app to AWS
+name: Deploy app on AWS
 
 on:
   push:
